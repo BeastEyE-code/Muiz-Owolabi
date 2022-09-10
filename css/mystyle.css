@@ -1,0 +1,44 @@
+body {
+    background-image: url(../css/naruto.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+img {
+    border-radius: 100px;
+    border: 1px black solid;
+    margin-bottom: 0.5em;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 15%;
+}
+
+.body-1 {
+    background-image: url(../css/bg-main-desktop.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 7%;
+    margin: auto;
+    border: 1px black solid;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: inherit;
+    padding: 30px;
+}
+
+.body-1 h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 40px;
+    text-transform: capitalize;
+    color: rgb(114, 95, 69);
+}
+
+.body-1 h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(239, 216, 216);
+}
