@@ -1,13 +1,24 @@
 body {
-    background-image: url(../images/bg-main-desktop.png);
+    background-image: url(../images/background-5.jpg);
     background-repeat: no-repeat;
-    background-size: 200% 100%;
+    background-size: auto 150%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: oblique;
 }
 
 img {
     border-radius: 50px;
     border: 1px black solid;
     margin-bottom: 0.5em;
+}
+
+.container {
+    width: 98%;
+    margin: auto;
 }
 
 .center {
